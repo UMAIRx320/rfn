@@ -32,12 +32,6 @@ try:
     open('.proxy.txt','w').write(prox)
 except Exception as e:
     exit(e)
-	#ugen20
-	rr = random.randrange
-	andro = f"{(rr(4,13))}"
-	memek = f"Dalvik/2.1.0 (Linux; U; Android {andro}; RMX3461 Build/RKQ1.210614.002; wv) [FBAN/Orca-Android;FBAV/{(rr(100,467))}.0.0.16.158;FBPN/com.facebook.orca;FBLC/en_US;FBBV/{(rr(100000000,9000000000))};FBCR/null;FBMF/realme;FBBD/realme;FBDV/RMX3461;FBSV/{andro};FBCA/armeabi-v7a:armeabi;FBDM/"+"{density=3.0,width=1080,height=1920"
-	momok = random.choice([memek])
-	ugen.append(momok)
 ###----------[ USER AGENT ]----------###
 for t in range(10000):
 	a=random.choice(['4','5','6','7','8','9','10','11','12','13','9.1.5','5.1.6','4.0.1','3.0.1','4.0.2','5.0.2','6.0.1','6.2.2','7.0.1','7.1.0','8.1.0','4.4.4','5.6.1','6.1.3'])
