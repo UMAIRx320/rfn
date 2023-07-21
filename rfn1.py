@@ -42,7 +42,7 @@ for t in range(10000):
 	g=random.randrange(10,300)
 	h=random.randrange(1111,9999)
 	i=random.randrange(20,100)
-	rfn1=f'Mozilla/5.0 (Linux; Android {a}; {b}; {c} Build/{d}.{f}.{e}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{g}.0.{h}.{i} Mobile Safari/537.36'
+	rfn1=f'Mozilla/5.0 (Linux; Android {a}; {c} Build/{d}.{f}.{e}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{g}.0.{h}.{i} Mobile Safari/537.36'
 	uaku2 = random.choice([rfn1])
 	ugen.append(uaku2)
 	
