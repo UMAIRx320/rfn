@@ -33,7 +33,7 @@ try:
 except Exception as e:
     exit(e)
 	#ugen20
-	rr = random.randint
+	rr = random.randrange
 	andro = f"{(rr(4,13))}"
 	memek = f"Dalvik/2.1.0 (Linux; U; Android {andro}; RMX3461 Build/RKQ1.210614.002; wv) [FBAN/Orca-Android;FBAV/{(rr(100,467))}.0.0.16.158;FBPN/com.facebook.orca;FBLC/en_US;FBBV/{(rr(100000000,9000000000))};FBCR/null;FBMF/realme;FBBD/realme;FBDV/RMX3461;FBSV/{andro};FBCA/armeabi-v7a:armeabi;FBDM/"+"{density=3.0,width=1080,height=1920"
 	momok = random.choice([memek])
